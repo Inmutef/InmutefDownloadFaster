@@ -1,2 +1,2 @@
 # InmutefDownloadFaster
-Inmutef Download Faster - Upload large files very fast
+Inmutef Download Faster - Download large files very fast
